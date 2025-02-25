@@ -11,3 +11,14 @@ int main() {
     }
     return 0;
 }
+
+/*
+    OUTPUT
+    kata = hallo
+
+    hallo
+    allo
+    llo
+    lo
+    o
+*/
